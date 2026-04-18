@@ -1,0 +1,4 @@
+1. Initialize - git Initialize
+2. Staging. (a)git add <filename> (to stage one file) (b) git add . (to stage all files)
+commit: git commit -m "first commit"
+push: git push -u origin main
