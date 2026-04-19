@@ -8,3 +8,9 @@ body {
     background-color: blue;
     color: white;
 }
+
+header {
+    background-color: gold;
+    color: white;
+    padding: 2rem;
+}
